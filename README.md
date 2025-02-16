@@ -19,7 +19,7 @@ This project uses the following technologies:
 
 ## 👀 Live Preview
 
-You can see the project live at the following link: [Portfolio](https://amanda-santos.github.io/enrollment-form/)
+You can see the project live at the [following link](https://amanda-santos.github.io/enrollment-form/).
 
 ## 💻 Prerequisites
 
