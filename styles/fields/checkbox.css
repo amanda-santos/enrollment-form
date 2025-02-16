@@ -28,6 +28,8 @@
 
   &:hover,
   &:focus-within {
+    cursor: pointer;
+
     .checkbox-image {
       background-image: url(../../assets/icons/checkbox-hover.svg);
     }

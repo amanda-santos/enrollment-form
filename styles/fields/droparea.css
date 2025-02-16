@@ -29,6 +29,7 @@
     outline-width: 0;
     border-color: var(--stroke-highlight);
     background-color: var(--surface-secondary);
+    cursor: pointer;
 
     & p {
       color: var(--text-tertiary);
